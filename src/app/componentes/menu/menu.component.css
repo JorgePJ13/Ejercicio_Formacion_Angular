@@ -1,0 +1,27 @@
+h2 {
+    text-align: center; 
+    color: darkred;
+    margin-bottom: 3%;
+}
+
+a {
+    color: darkblue; 
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 2%;
+    
+}
+
+legend {
+    font-weight: bold;
+    margin-left: 5%;
+}
+
+div {
+    padding: 5%;
+}
+
+fieldset {
+    border-radius: 10px;
+    border: 2px solid gray;
+}
